@@ -1,2 +1,3 @@
-# Fashion-MNIST
-DEPI Task
+# Fashion MNIST Dataset 
+## Description
+
