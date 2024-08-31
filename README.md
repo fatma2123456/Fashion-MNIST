@@ -6,7 +6,9 @@ This project focuses on processing and analyzing the Fashion MNIST dataset using
 
 ## Table of Contents
 <ul>
-  <li><a herf="I"><h4><b> Installation </b> </h4> </a> </li>
-  <li> visualize </li>
-  <li> Features </li>
+  <li><a herf="i"><h4><b> Installation </b> </h4> </a> </li>
+  <li> <a herf="v"><h4><b> visualize </b></h4></a> </li>
+  <li><a herf="f"><h4><b> Features </b></h4></a> </li>
 </ul>
+
+##<span id="i"> Installation </span>
