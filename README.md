@@ -31,6 +31,14 @@ Collect all images have a same lable in folder , so , i have 10 lables i have 10
 I split the Train Dataset ---->>> Train and validation Dataset and put the Validtion data to anthor folder ,
 becuse I would used in the next step .
 
+
+## Dataset
+<ul>
+<li><b>Training set</b>: 48,000 images</li>
+<li><b>Validation set</b>: 12,000 images</li>
+<li><b>Test set</b>: 10,000 images</li>
+</ul>
+
 ## Code Structure 🤕
 
 <ul>
@@ -60,9 +68,30 @@ becuse I would used in the next step .
 </ol>
 
 
-## Results Visualization For Bootstrpping 🧐
+## Results Visualization For Bootstrpping on Validation Dataset 🧐
 The script plots the accuracies of DNN and CNN models across different bootstrapping estimators, allowing for comparison of model performance.
 
 
 <a href="https://github.com/fatma2123456/Fashion-MNIST/blob/main/Fashion_MNIST_Dataset.ipynb"><img src="https://github.com/fatma2123456/Fashion-MNIST/blob/main/Bootsrapping.png" alt="Result Bootstaping"></a>
-## 
+
+
+## Results Form DNN and CNN Model On Training Dataset 🤦
+
+<h4><b>DNN Model</b>:</h4>
+<ul>
+  <li>Final Training Accuracy: 0.9191</li>
+  <li>Final Validation Accuracy: 0.8173</li>
+  <li>Test Accuracy: 0.8238</li>
+  <li>Precision: 0.7584</li>
+  <li>Recall: 0.7548</li>
+</ul>
+
+
+<h4><b>CNN Model</b>:</h4>
+<ul>
+  <li>Final Training Accuracy: 0.9590</li>
+  <li>Final Validation Accuracy: 0.8932</li>
+  <li>Test Accuracy: 0.8238</li>
+  <li>Precision: 0.7584</li>
+  <li>Recall: 0.7548</li>
+</ul>
