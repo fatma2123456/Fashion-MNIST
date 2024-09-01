@@ -62,5 +62,7 @@ becuse I would used in the next step .
 
 ## Results Visualization For Bootstrpping 🧐
 The script plots the accuracies of DNN and CNN models across different bootstrapping estimators, allowing for comparison of model performance.
-<a href="https://github.com/fatma2123456/Fashion-MNIST/blob/main/Fashion_MNIST_Dataset.ipynb"><img src="https://github.com/fatma2123456/Fashion-MNIST/blob/main/Bootsrapping.png" alt="Result Bootstaping" style="width:100px;height:100px;"></a>
+
+
+<a href="https://github.com/fatma2123456/Fashion-MNIST/blob/main/Fashion_MNIST_Dataset.ipynb"><img src="https://github.com/fatma2123456/Fashion-MNIST/blob/main/Bootsrapping.png" alt="Result Bootstaping"></a>
 ## 
