@@ -86,12 +86,30 @@ The script plots the accuracies of DNN and CNN models across different bootstrap
   <li>Recall: 0.7548</li>
 </ul>
 
+<h5><b> Results Visualizations DNN Model</b>:</h5>
+
+<a href="https://github.com/fatma2123456/Fashion-MNIST/blob/main/Fashion_MNIST_Dataset.ipynb"><img src="https://github.com/fatma2123456/Fashion-MNIST/blob/main/DNN%20Confusion%20Matrix.png" alt="DNN confusio matrix"></a>
 
 <h4><b>CNN Model</b>:</h4>
 <ul>
   <li>Final Training Accuracy: 0.9590</li>
   <li>Final Validation Accuracy: 0.8932</li>
-  <li>Test Accuracy: 0.8238</li>
-  <li>Precision: 0.7584</li>
-  <li>Recall: 0.7548</li>
+  <li>Test Accuracy: 0.9034</li>
+  <li>Precision: 0.9033</li>
+  <li>Recall: 0.9034</li>
 </ul>
+
+<h5><b> Results Visualizations CNN Model</b>:</h5>
+
+<a href="https://github.com/fatma2123456/Fashion-MNIST/blob/main/Fashion_MNIST_Dataset.ipynb"><img src="https://github.com/fatma2123456/Fashion-MNIST/blob/main/CNN%20Confusion%20Matrix.png" alt="CNN confusio matrix"></a>
+
+
+<h4><b> Results Visualizations For Comparision CNN and DNN model</b>:</h4>
+
+
+<a href="https://github.com/fatma2123456/Fashion-MNIST/blob/main/Fashion_MNIST_Dataset.ipynb"><img src="https://github.com/fatma2123456/Fashion-MNIST/blob/main/comparision%20of%20DNN%20and%20Cnn%20Loss%20.png" ></a>
+
+
+<a href="https://github.com/fatma2123456/Fashion-MNIST/blob/main/Fashion_MNIST_Dataset.ipynb"><img src="https://github.com/fatma2123456/Fashion-MNIST/blob/main/comparision%20of%20DNN%20and%20Cnn%20Precision%20and%20Recall%20.png" alt="Result Bootstaping"></a>
+
+## Thank You For Reading The README i hope you will use this for Understands The code 🥰
